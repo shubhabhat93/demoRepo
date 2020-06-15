@@ -1,2 +1,5 @@
 Hello,
 This is a Info Page for Github Training
+
+
+Changes from DEV1 branch
